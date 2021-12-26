@@ -2,14 +2,14 @@
 
 Queue management system for waiting lines & walk-ins at physical locations.
 
-### 🦦 What are we building?
+### 🦦 Building
 
 We are building several tools involved in the same ecosystem. Here is a list of the top projects:
 
-- **Asgard** - Monorepo of back-end applications built on Javascript and TypeScript ecosystem.
-- **Devorah** - Development environment management and local infrastructure for the application stack.
+- **Devorah** - Development environment management and local docker-backed infrastructure.
 - **Dakkota** - Deployment and config-management of Kubernetes-backed infrastructure.
-- **Suzanne** - Monorepo of front-end applications built on Javascript and TypeScript ecosystem.
+- **Asgard** - Monorepo of back-end applications built with Javascript libs or frameworks. **3+ apps** inside.
+- **Suzanne** - Monorepo of front-end applications built with Javascript libs or frameworks. **4+ apps** inside.
 
 ### ❤️ Become a smart-queue customer
 
