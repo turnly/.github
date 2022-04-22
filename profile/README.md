@@ -6,8 +6,7 @@ Queue management system for waiting lines & walk-ins at physical locations.
 
 We are building several tools involved in the same ecosystem. Here is a list of the top projects:
 
-- **Devorah** - Development environment management and local docker-backed infrastructure.
-- **Dakkota** - Deployment and config-management of Kubernetes-backed infrastructure.
+- **Dakkota** - Kubernetes-backed infrastructure provisioning for all deployments on each environment.
 - **Asgard** - Monorepo of back-end applications built with Javascript libs or frameworks. **3+ apps** inside.
 - **Suzanne** - Monorepo of front-end applications built with Javascript libs or frameworks. **4+ apps** inside.
 
