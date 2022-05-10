@@ -1,4 +1,4 @@
-# Turnly Labs — Ahoy!, welcome aboard. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Turnly Labs — Ahoy, welcome aboard! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 If you're watching this, it was out of curiosity or attraction to what Turnly is doing.
 If you need help or have questions, you can contact us at hi@turnly.io
