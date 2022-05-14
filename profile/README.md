@@ -14,6 +14,10 @@ customer experience by eliminating queues in our modern age.
 Smart devices are everywhere and the capabilities are endless,
 we plan to use this advantage to take queuing systems to the next level.
 
+#### Create powerful apps with Turnly's API
+
+Explore our [documentation](https://turnly.gitbook.io/docs/) to start building custom integrations.
+
 
 <h3 align="center">
   <b><a href="https://iam.turnly.io/signup/?utm_source=github">Get Turnly</a></b>
