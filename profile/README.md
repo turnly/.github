@@ -10,7 +10,7 @@ We replace take-a-number systems with a web widget-based system, which your cust
 This allows you to offer a personalized service, obtain prior information required for service,
 and collect data associated with your customers for Service Intelligence.
 
-https://user-images.githubusercontent.com/40646537/175336093-2486516e-466b-4c61-8037-ab226292cdad.mov
+https://user-images.githubusercontent.com/40646537/175357726-51c268b7-4dd5-4da3-89ec-1ee5270b9afe.mov
 
 ### The most notable features
 
