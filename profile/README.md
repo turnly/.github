@@ -45,7 +45,7 @@ Your customers can send you feedback on how to improve the experience in your lo
 
 ![Completed - Rating](https://user-images.githubusercontent.com/40646537/175342476-e64a1abb-1a59-4b75-8f08-a65f27a5e347.png)
 
-#### Integrations
+#### Partnership API
 
 Our APIs are completely based on integration with external systems and that is why we offer partner APIs that will allow you to create your own application flow.
 
