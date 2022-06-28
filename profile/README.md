@@ -51,6 +51,14 @@ Our APIs are completely based on integration with external systems and that is w
 
 Partner APIs, webhooks, and support for Beacons that integrate with mobile apps to detect customer arrival or create proximity-based logic.
 
+#### Real Time Messaging API (Streaming data)
+
+The RTM API is a WebSocket-based API that allows you to receive
+read-only access to a selected set of data from Turnly in realtime.
+
+Once your application establishes a connection to a streaming endpoint,
+a feed of events is delivered to your app.
+
 <h3 align="center">
   <b><a href="mailto:efra23peralta@gmail.com">Get Turnly</a></b>
 </h3>
