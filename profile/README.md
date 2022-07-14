@@ -4,7 +4,7 @@ Ahoy, welcome aboard, if you're watching this, it was out of curiosity or attrac
 
 ### What are we building?
 
-We are building the next queue management and customer experience system for walk-ins at physical locations.
+We are building the next open-source queue management system for enhancing customer experience.
 
 We replace take-a-number systems with a web widget-based system, which your customers can access via any device from your website.
 This allows you to offer a personalized service, obtain prior information required for service,
