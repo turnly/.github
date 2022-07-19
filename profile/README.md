@@ -8,7 +8,7 @@
   <p>
     <sub>
       Built with ❤︎ by
-      <a href="/OWNERS.md">
+      <a href="https://github.com/turnly/turnly/blob/develop/OWNERS.md">
         maintainers
       </a>
     </sub>
