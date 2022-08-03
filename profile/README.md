@@ -1,7 +1,7 @@
 <div align="center">
   <p align="center">
       <a href="https://turnly.app" target="_blank" rel="noopener">
-          <img src="https://user-images.githubusercontent.com/40646537/179642137-a17ba030-5ae8-4040-9f87-e207e40b9d35.png" />
+          <img src="https://user-images.githubusercontent.com/40646537/182500338-95256227-1bda-48d5-9752-3878c2267f4d.png" />
       </a>
   </p>
 
@@ -21,13 +21,13 @@
 
 <br />
 
-### What are we building?
+### What's Turnly?
 
-We are building the next open-source queue management system for enhancing customer experience.
+We are building the next modern Open-Source Queue Management Systems (QMS).
 
-We replace take-a-number systems with a web widget-based system, which your customers can access via any device from your website.
-This allows you to offer a personalized service, obtain prior information required for service,
-and collect data associated with your customers for Service Intelligence.
+Turnly helps businesses save their customers time waiting in physical queues by eliminating
+legacy number-taking systems. Customers join from their smart device to a web widget-based system
+that can be accessed from your own website or application.
 
 ### Repositories
 
@@ -39,7 +39,7 @@ Quick access summary of our repositories and categories.
 
 ##### Back-end Apps
 
-- [Turnly — Monorepo of back-end applications that make up much of Turnly's APIs.](https://github.com/turnly/turnly)
+- [Turnly — The primary repo for Turnly's ecosystem](https://github.com/turnly/turnly)
 - [Shared — Implements Turnly's core functionality, low-level services, and utilities.](https://github.com/turnly/shared)
 - [gRPC — Inter-services communication](https://github.com/turnly/rpc)
 
