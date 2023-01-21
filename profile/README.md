@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-      <a href="https://turnly.app" target="_blank" rel="noopener">
+      <a href="https://healthcare.turnly.app" target="_blank" rel="noopener">
           <img src="https://raw.githubusercontent.com/turnly/turnly/develop/docs/assets/github-showcase.png" />
       </a>
   </p>
