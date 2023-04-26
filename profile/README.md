@@ -27,14 +27,6 @@ Turnly is an open-source Queue Management System (QMS) that helps businesses
 save their customers' waiting time in lines while capturing valuable insights for
 business intelligence and quantifying business impact.
 
-### 🧑🏻‍🚒 Try Turnly now!
- 
-We'd love you to try Turnly and share your valuable feedback, and together, we can make it better ❤️
-
-* [x] Try a minimal solution for [Healhcare](https://healthcare.turnly.app)
-* [x] Try a minimal solution for [Finance](https://finance.turnly.app)
-* [x] Try a minimal solution for [Small Business](https://small-business.turnly.app)
-
 <br />
 <br />
 <p align="center">
