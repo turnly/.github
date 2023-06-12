@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-      <a href="https://healthcare.turnly.app" target="_blank" rel="noopener">
+      <a href="https://turnly.app" target="_blank" rel="noopener">
           <img src="https://raw.githubusercontent.com/turnly/turnly/develop/docs/assets/github-showcase.png" />
       </a>
   </p>
@@ -23,9 +23,7 @@
 
 ### 📜 What's Turnly?
 
-Turnly is an open-source Queue Management System (QMS) that helps businesses
-save their customers' waiting time in lines while capturing valuable insights for
-business intelligence and quantifying business impact.
+We help businesses save customer waiting time in lines while pre-capturing valuable insights to quantify business impact
 
 <br />
 <br />
