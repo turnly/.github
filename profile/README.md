@@ -4,9 +4,9 @@
   <p align="center">
     <a href="https://turnly.app" target="_blank">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="/.assets/logo-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="/.assets/logo-light.svg">
-        <img src="/.assets/logo-light.svg" alt="The next modern Queuing, & Booking Solution Platform (QMaaS) logo" width="116">
+        <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/89368914">
+        <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/89368914">
+        <img src="https://avatars.githubusercontent.com/u/89368914" alt="The next modern Queuing, & Booking Solution Platform (QMaaS) logo" width="116">
       </picture>
     </a>
   </p>
@@ -14,30 +14,34 @@
   <h3 align="center">Turnly, Inc</h3>
 
   <p align="center">
-    The next modern Queuing & Booking Solution Platform (QMaaS)
+    A next-generation solution for managing customer flow, appointments, and real-time engagement across multiple locations—built from the ground up for today's customer expectations.
   </p>
-
-  <p align="center">
-    <a target="_blank" href="https://turnly.app">Website</a> |
-    <a target="_blank" href="https://developers.turnly.app">User Documentation</a> |
-    <a target="_blank" href="https://linkedin.com/company/turnly">LinkedIn</a>
-  </p>
-
-[![GitHub tag (latest SemVer)](https://img.shields.io/static/v1?label=version&message=0.0.0&color=green)](/package.json)
-[![Official documentation](https://img.shields.io/static/v1?label=docs&message=latest&color=blue)](https://developers.turnly.app)
-[![Twitter Follow](https://img.shields.io/twitter/follow/turnlyapp?style=social)](https://twitter.com/turnlyapp)
-
 </div>
 
+#### The platform includes:
+
+* In-App Messaging & Multi-Channel Notifications
+
+* AI-powered Tools
+
+* Smart appointments & queueing with location calendar
+
+* Custom data collection through dynamic forms
+
+* Support for multiple locations, services, business hours, and availability
+
+* Fully customizable branding per organization
+
+* Integrated workflows to personalize the customer experience from booking to check-in
+
+<br />
+
+Designed for teams who need control, flexibility, and a modern interface to scale their service operations with ease.
+
 ---
 
-## Overview
-
-Turnly is an all-in-one, business management platform that helps companies streamline operations, enhance customer experiences, and scale effortlessly. From booking and queuing to messaging, agent workflows, custom data collections, and integrations, Turnly adapts to any industry, providing the tools you need to run your business efficiently and effectively.
-
----
-
-### Documentation
-
-Our public-facing documentation is hosted at [developers.turnly.io](https://developers.turnly.io) and provides clients with
-detailed guides and resources for integrating with Turnly’s APIs based on their access level.
+<p align="center">
+  <a target="_blank" href="https://turnly.app">Website</a> |
+  <a target="_blank" href="https://developers.turnly.app">User Documentation</a> |
+  <a target="_blank" href="https://linkedin.com/company/turnly">LinkedIn</a>
+</p>
