@@ -42,6 +42,6 @@ Designed for teams who need control, flexibility, and a modern interface to scal
 
 <p align="center">
   <a target="_blank" href="https://turnly.io">Website</a> |
-  <a target="_blank" href="https://developers.turnly.app">Documentation</a> |
+  <a target="_blank" href="https://developers.turnly.io">Documentation</a> |
   <a target="_blank" href="https://linkedin.com/company/turnly">LinkedIn</a>
 </p>
