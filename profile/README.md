@@ -2,7 +2,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://turnly.app" target="_blank">
+    <a href="https://turnly.io" target="_blank">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/89368914">
         <source media="(prefers-color-scheme: light)" srcset="https://avatars.githubusercontent.com/u/89368914">
@@ -41,7 +41,7 @@ Designed for teams who need control, flexibility, and a modern interface to scal
 ---
 
 <p align="center">
-  <a target="_blank" href="https://turnly.app">Website</a> |
-  <a target="_blank" href="https://developers.turnly.app">User Documentation</a> |
+  <a target="_blank" href="https://turnly.io">Website</a> |
+  <a target="_blank" href="https://developers.turnly.app">Documentation</a> |
   <a target="_blank" href="https://linkedin.com/company/turnly">LinkedIn</a>
 </p>
